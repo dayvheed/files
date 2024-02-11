@@ -1,0 +1,17 @@
+{
+  "nodes": [
+    {"id": "North Bank", "group": 1},
+    {"id": "South Bank", "group": 1},
+    {"id": "Island A", "group": 1},
+    {"id": "Island B", "group": 1}
+  ],
+  "links": [
+    {"source": "North Bank", "target": "Island A", "value": 1},
+    {"source": "North Bank", "target": "Island A", "value": 2}, 
+    {"source": "North Bank", "target": "South Bank", "value": 3}, 
+    {"source": "Island A", "target": "Island B", "value": 4},
+    {"source": "Island A", "target": "South Bank", "value": 5},
+    {"source": "South Bank", "target": "Island B", "value": 6},
+    {"source": "South Bank", "target": "Island B", "value": 7}
+  ]
+}
