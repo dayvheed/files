@@ -1,0 +1,2607 @@
+{
+  "nodes": [
+    {
+      "id": "Oakton-Skokie",
+      "Lines": "Yellow Line",
+      "Longitude": -87.74919253254365,
+      "Latitude": 42.032021964696064
+    },
+    {
+      "id": "Howard",
+      "Lines": "Yellow Line",
+      "Longitude": -87.67625887027687,
+      "Latitude": 42.02232270523906
+    },
+    {
+      "id": "Pulaski-Midway",
+      "Lines": "Orange Line",
+      "Longitude": -87.7357419301787,
+      "Latitude": 41.79438886619646
+    },
+    {
+      "id": "Kedzie-Midway",
+      "Lines": "Orange Line",
+      "Longitude": -87.69314343183936,
+      "Latitude": 41.804549954031295
+    },
+    {
+      "id": "Belmont-O'Hare",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.71572826769936,
+      "Latitude": 41.94323429855174
+    },
+    {
+      "id": "Logan Square",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.70407967876038,
+      "Latitude": 41.926610630977216
+    },
+    {
+      "id": "Kedzie-Homan",
+      "Lines": "Blue Line (Forest Park)",
+      "Longitude": -87.71294296954228,
+      "Latitude": 41.874123503040735
+    },
+    {
+      "id": "Western-Congress",
+      "Lines": "Blue Line (Forest Park)",
+      "Longitude": -87.68204849772572,
+      "Latitude": 41.87558093299732
+    },
+    {
+      "id": "Paulina Junction",
+      "Lines": "Pink Line",
+      "Longitude": -87.66819556561138,
+      "Latitude": 41.88528487172272
+    },
+    {
+      "id": "Polk",
+      "Lines": "Pink Line",
+      "Longitude": -87.66937155411249,
+      "Latitude": 41.86519573653278
+    },
+    {
+      "id": "Division/Milwaukee",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.67138030752572,
+      "Latitude": 41.90602235291818
+    },
+    {
+      "id": "Chicago/Milwaukee",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.65163544728097,
+      "Latitude": 41.89379944000357
+    },
+    {
+      "id": "Belmont-North Main",
+      "Lines": "Brown, Purple (Express), Red",
+      "Longitude": -87.6534189848212,
+      "Latitude": 41.94100501935743
+    },
+    {
+      "id": "Wellington",
+      "Lines": "Brown, Purple (Express), Red",
+      "Longitude": -87.65320289373939,
+      "Latitude": 41.93443504687011
+    },
+    {
+      "id": "Irving Park-Ravenswood",
+      "Lines": "Brown Line",
+      "Longitude": -87.67505328553142,
+      "Latitude": 41.95781116285843
+    },
+    {
+      "id": "Addison-Ravenswood",
+      "Lines": "Brown Line",
+      "Longitude": -87.67362795327178,
+      "Latitude": 41.94434420561464
+    },
+    {
+      "id": "Jarvis",
+      "Lines": "Red, Purple Line",
+      "Longitude": -87.67107312011272,
+      "Latitude": 42.01755868847352
+    },
+    {
+      "id": "Morse",
+      "Lines": "Red, Purple Line",
+      "Longitude": -87.66403278254828,
+      "Latitude": 42.00383447044357
+    },
+    {
+      "id": "Cermak-Chinatown",
+      "Lines": "Red Line",
+      "Longitude": -87.63095648969231,
+      "Latitude": 41.845822574010604
+    },
+    {
+      "id": "Roosevelt/State",
+      "Lines": "Red Line",
+      "Longitude": -87.62746337617698,
+      "Latitude": 41.87106333589489
+    },
+    {
+      "id": "UIC-Halsted",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.65608309838089,
+      "Latitude": 41.87577472921435
+    },
+    {
+      "id": "Clinton-Congress",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.63591340985244,
+      "Latitude": 41.87557763203228
+    },
+    {
+      "id": "Jackson/State",
+      "Lines": "Red Line",
+      "Longitude": -87.62765202803897,
+      "Latitude": 41.87945651100063
+    },
+    {
+      "id": "Harrison",
+      "Lines": "Red Line",
+      "Longitude": -87.62746337617698,
+      "Latitude": 41.87106333589489
+    },
+    {
+      "id": "Chicago/Franklin",
+      "Lines": "Brown, Purple",
+      "Longitude": -87.63693289378533,
+      "Latitude": 41.90365628278685
+    },
+    {
+      "id": "Merchandise Mart",
+      "Lines": "Brown, Purple",
+      "Longitude": -87.63395314632903,
+      "Latitude": 41.8872617664965
+    },
+    {
+      "id": "Clark/Lake",
+      "Lines": "Brown, Green, Orange, Pink, Purple (Exp)",
+      "Longitude": -87.62977132594706,
+      "Latitude": 41.885491050665365
+    },
+    {
+      "id": "State/Lake",
+      "Lines": "Brown, Green, Orange, Pink, Purple (Exp)",
+      "Longitude": -87.62651540657565,
+      "Latitude": 41.88547161982856
+    },
+    {
+      "id": "Subway Portal B",
+      "Lines": "Red Line",
+      "Longitude": -87.65257729864435,
+      "Latitude": 41.91623512893091
+    },
+    {
+      "id": "North/Clybourn",
+      "Lines": "Red Line",
+      "Longitude": -87.64029670253865,
+      "Latitude": 41.90534090771906
+    },
+    {
+      "id": "79th",
+      "Lines": "Red Line",
+      "Longitude": -87.62492293341795,
+      "Latitude": 41.74151301274514
+    },
+    {
+      "id": "69th",
+      "Lines": "Red Line",
+      "Longitude": -87.62794220448173,
+      "Latitude": 41.77527224132834
+    },
+    {
+      "id": "43rd",
+      "Lines": "Green Line",
+      "Longitude": -87.61892959513655,
+      "Latitude": 41.812752072862864
+    },
+    {
+      "id": "Indiana",
+      "Lines": "Green Line",
+      "Longitude": -87.62506275597973,
+      "Latitude": 41.8236553973826
+    },
+    {
+      "id": "Laramie",
+      "Lines": "Green Line",
+      "Longitude": -87.75886314538725,
+      "Latitude": 41.88739097865786
+    },
+    {
+      "id": "Cicero-Lake",
+      "Lines": "Green Line",
+      "Longitude": -87.73420295330818,
+      "Latitude": 41.88592263554557
+    },
+    {
+      "id": "Pulaski-Douglas",
+      "Lines": "Pink Line",
+      "Longitude": -87.72817249018173,
+      "Latitude": 41.85384051780734
+    },
+    {
+      "id": "Central Park",
+      "Lines": "Pink Line",
+      "Longitude": -87.71003195565568,
+      "Latitude": 41.854064137680986
+    },
+    {
+      "id": "Kimball",
+      "Lines": "Brown Line",
+      "Longitude": -87.71230175234707,
+      "Latitude": 41.96628587477188
+    },
+    {
+      "id": "Kedzie-Ravenswood",
+      "Lines": "Brown Line",
+      "Longitude": -87.7052120799941,
+      "Latitude": 41.96613042065878
+    },
+    {
+      "id": "Western-Midway",
+      "Lines": "Orange Line",
+      "Longitude": -87.68243850188607,
+      "Latitude": 41.81596835947524
+    },
+    {
+      "id": "Western-Ravenswood",
+      "Lines": "Brown Line",
+      "Longitude": -87.69076133192996,
+      "Latitude": 41.96624527877525
+    },
+    {
+      "id": "Damen-Ravenswood",
+      "Lines": "Brown Line",
+      "Longitude": -87.67604417096673,
+      "Latitude": 41.96540157460128
+    },
+    {
+      "id": "Ashland-Lake",
+      "Lines": "Green, Pink",
+      "Longitude": -87.66819556561138,
+      "Latitude": 41.88528487172272
+    },
+    {
+      "id": "Morgan",
+      "Lines": "Green, Pink",
+      "Longitude": -87.6473026853828,
+      "Latitude": 41.88566070475542
+    },
+    {
+      "id": "Montrose-Ravenswood",
+      "Lines": "Brown Line",
+      "Longitude": -87.67604417096673,
+      "Latitude": 41.96540157460128
+    },
+    {
+      "id": "Garfield-Dan Ryan",
+      "Lines": "Red Line",
+      "Longitude": -87.63108080725978,
+      "Latitude": 41.7875751613745
+    },
+    {
+      "id": "47th-Dan Ryan",
+      "Lines": "Red Line",
+      "Longitude": -87.63040771089304,
+      "Latitude": 41.81644331861119
+    },
+    {
+      "id": "Halsted-Midway",
+      "Lines": "Orange Line",
+      "Longitude": -87.65426099270495,
+      "Latitude": 41.844388977812905
+    },
+    {
+      "id": "17th Junction",
+      "Lines": "Orange Line",
+      "Longitude": -87.62644587798265,
+      "Latitude": 41.85622057942137
+    },
+    {
+      "id": "Tower 18",
+      "Lines": "Brown, Green, Orange, Pink, Purple (Exp)",
+      "Longitude": -87.6338910082031,
+      "Latitude": 41.88428290997783
+    },
+    {
+      "id": "Grand/State",
+      "Lines": "Red Line",
+      "Longitude": -87.62809664347918,
+      "Latitude": 41.8940903401706
+    },
+    {
+      "id": "Lake/State",
+      "Lines": "Red Line",
+      "Longitude": -87.6277584857096,
+      "Latitude": 41.882930565101375
+    },
+    {
+      "id": "Clark/Division",
+      "Lines": "Red Line",
+      "Longitude": -87.62882580114704,
+      "Latitude": 41.902480548331816
+    },
+    {
+      "id": "Jefferson Park",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.77940760532844,
+      "Latitude": 41.97793335303046
+    },
+    {
+      "id": "Montrose-O'Hare",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.73902760889078,
+      "Latitude": 41.95858825223843
+    },
+    {
+      "id": "Kedzie-Douglas",
+      "Lines": "Pink Line",
+      "Longitude": -87.71003195565568,
+      "Latitude": 41.854064137680986
+    },
+    {
+      "id": "California-Douglas",
+      "Lines": "Pink Line",
+      "Longitude": -87.6895117659396,
+      "Latitude": 41.85436126706694
+    },
+    {
+      "id": "California-Lake",
+      "Lines": "Green Line",
+      "Longitude": -87.70195475313736,
+      "Latitude": 41.88415929219141
+    },
+    {
+      "id": "Rockwell",
+      "Lines": "Brown Line",
+      "Longitude": -87.69806180077974,
+      "Latitude": 41.96618310898609
+    },
+    {
+      "id": "18th",
+      "Lines": "Pink Line",
+      "Longitude": -87.67015808258446,
+      "Latitude": 41.8549561455801
+    },
+    {
+      "id": "Racine",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.66375408038127,
+      "Latitude": 41.87582804570015
+    },
+    {
+      "id": "Wilson",
+      "Lines": "Red, Purple Line",
+      "Longitude": -87.65830813925162,
+      "Latitude": 41.966813200645255
+    },
+    {
+      "id": "Sheridan",
+      "Lines": "Red, Purple Line",
+      "Longitude": -87.65385104548236,
+      "Latitude": 41.95234105884013
+    },
+    {
+      "id": "Halsted/63rd",
+      "Lines": "Green Line",
+      "Longitude": -87.65066112326743,
+      "Latitude": 41.779085994205225
+    },
+    {
+      "id": "59th Junction",
+      "Lines": "Green Line",
+      "Longitude": -87.61760578908596,
+      "Latitude": 41.78169554811198
+    },
+    {
+      "id": "Library",
+      "Lines": "Brown, Orange, Pink, Purple (Express)",
+      "Longitude": -87.62663997071158,
+      "Latitude": 41.87689486245095
+    },
+    {
+      "id": "LaSalle/Van Buren",
+      "Lines": "Brown, Orange, Pink, Purple (Express)",
+      "Longitude": -87.63331197883412,
+      "Latitude": 41.87712754877312
+    },
+    {
+      "id": "Roosevelt/Wabash",
+      "Lines": "Green, Orange",
+      "Longitude": -87.62651443444896,
+      "Latitude": 41.86279717570038
+    },
+    {
+      "id": "Tower 12",
+      "Lines": "Green, Orange",
+      "Longitude": -87.6260663249338,
+      "Latitude": 41.8781814539615
+    },
+    {
+      "id": "Clinton-Lake",
+      "Lines": "Green, Pink",
+      "Longitude": -87.63787454192575,
+      "Latitude": 41.88571872869336
+    },
+    {
+      "id": "Oak Park-Congress",
+      "Lines": "Blue Line (Forest Park)",
+      "Longitude": -87.79991946212273,
+      "Latitude": 41.872850190117234
+    },
+    {
+      "id": "Austin-Congress",
+      "Lines": "Blue Line (Forest Park)",
+      "Longitude": -87.76230425197377,
+      "Latitude": 41.870757449150105
+    },
+    {
+      "id": "Harlem-Lake",
+      "Lines": "Green Line",
+      "Longitude": -87.7984447896395,
+      "Latitude": 41.88692812042282
+    },
+    {
+      "id": "Oak Park-Lake",
+      "Lines": "Green Line",
+      "Longitude": -87.78866729913625,
+      "Latitude": 41.88708558328736
+    },
+    {
+      "id": "Harlem-O'Hare",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.82178886865803,
+      "Latitude": 41.98350519710806
+    },
+    {
+      "id": "Austin-Lake",
+      "Lines": "Green Line",
+      "Longitude": -87.77870079234583,
+      "Latitude": 41.88724490771862
+    },
+    {
+      "id": "Central-Lake",
+      "Lines": "Green Line",
+      "Longitude": -87.75886314538725,
+      "Latitude": 41.88739097865786
+    },
+    {
+      "id": "54/Cermak",
+      "Lines": "Pink Line",
+      "Longitude": -87.75084936460017,
+      "Latitude": 41.85187320793263
+    },
+    {
+      "id": "Cicero-Douglas",
+      "Lines": "Pink Line",
+      "Longitude": -87.7369993951692,
+      "Latitude": 41.85283110736745
+    },
+    {
+      "id": "Irving Park-O'Hare",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.72223140293237,
+      "Latitude": 41.949117307707965
+    },
+    {
+      "id": "Illinois Medical District",
+      "Lines": "Blue Line (Forest Park)",
+      "Longitude": -87.67129660752907,
+      "Latitude": 41.87569539720917
+    },
+    {
+      "id": "Western/Milwaukee",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.69168820858884,
+      "Latitude": 41.91879754016427
+    },
+    {
+      "id": "Damen/Milwaukee",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.67138030752572,
+      "Latitude": 41.90602235291818
+    },
+    {
+      "id": "Loomis Junction",
+      "Lines": "Blue Line (Forest Park)",
+      "Longitude": -87.66375408038127,
+      "Latitude": 41.87582804570015
+    },
+    {
+      "id": "Grand/Milwaukee",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.64014166658279,
+      "Latitude": 41.88711714447134
+    },
+    {
+      "id": "Paulina",
+      "Lines": "Brown Line",
+      "Longitude": -87.66705438610194,
+      "Latitude": 41.943772607346666
+    },
+    {
+      "id": "Southport",
+      "Lines": "Brown Line",
+      "Longitude": -87.65504209231534,
+      "Latitude": 41.94341478020517
+    },
+    {
+      "id": "Diversey",
+      "Lines": "Brown, Purple (Express), Red",
+      "Longitude": -87.65320289373939,
+      "Latitude": 41.93443504687011
+    },
+    {
+      "id": "Fullerton",
+      "Lines": "Brown, Purple (Express), Red",
+      "Longitude": -87.65277143453118,
+      "Latitude": 41.9219352634366
+    },
+    {
+      "id": "Thorndale",
+      "Lines": "Red, Purple Line",
+      "Longitude": -87.65912812125299,
+      "Latitude": 41.99178503753403
+    },
+    {
+      "id": "Bryn Mawr",
+      "Lines": "Red, Purple Line",
+      "Longitude": -87.65875929085648,
+      "Latitude": 41.98072662465815
+    },
+    {
+      "id": "Jackson/Dearborn",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.62933004247226,
+      "Latitude": 41.879066020436895
+    },
+    {
+      "id": "LaSalle",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.63591340985244,
+      "Latitude": 41.87557763203228
+    },
+    {
+      "id": "Chicago/State",
+      "Lines": "Red Line",
+      "Longitude": -87.62882580114704,
+      "Latitude": 41.902480548331816
+    },
+    {
+      "id": "Garfield-South Elevated",
+      "Lines": "Green Line",
+      "Longitude": -87.61821950105747,
+      "Latitude": 41.790965343083805
+    },
+    {
+      "id": "51st",
+      "Lines": "Green Line",
+      "Longitude": -87.61866279385026,
+      "Latitude": 41.805887217995554
+    },
+    {
+      "id": "Ridgeland",
+      "Lines": "Green Line",
+      "Longitude": -87.78866729913625,
+      "Latitude": 41.88708558328736
+    },
+    {
+      "id": "Kostner",
+      "Lines": "Pink Line",
+      "Longitude": -87.72817249018173,
+      "Latitude": 41.85384051780734
+    },
+    {
+      "id": "Cicero-Congress",
+      "Lines": "Blue Line (Forest Park)",
+      "Longitude": -87.76230425197377,
+      "Latitude": 41.870757449150105
+    },
+    {
+      "id": "Pulaski-Congress",
+      "Lines": "Blue Line (Forest Park)",
+      "Longitude": -87.71294296954228,
+      "Latitude": 41.874123503040735
+    },
+    {
+      "id": "Pulaski-Lake",
+      "Lines": "Green Line",
+      "Longitude": -87.73420295330818,
+      "Latitude": 41.88592263554557
+    },
+    {
+      "id": "Conservatory-Central Park",
+      "Lines": "Green Line",
+      "Longitude": -87.71158677205754,
+      "Latitude": 41.88463445737303
+    },
+    {
+      "id": "Addison-O'Hare",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.72223140293237,
+      "Latitude": 41.949117307707965
+    },
+    {
+      "id": "Western-Douglas",
+      "Lines": "Pink Line",
+      "Longitude": -87.6895117659396,
+      "Latitude": 41.85436126706694
+    },
+    {
+      "id": "Damen",
+      "Lines": "Pink Line",
+      "Longitude": -87.67015808258446,
+      "Latitude": 41.8549561455801
+    },
+    {
+      "id": "California/Milwaukee",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.70407967876038,
+      "Latitude": 41.926610630977216
+    },
+    {
+      "id": "Main",
+      "Lines": "Purple Line",
+      "Longitude": -87.68061133546098,
+      "Latitude": 42.03740489516096
+    },
+    {
+      "id": "South Blvd.",
+      "Lines": "Purple Line",
+      "Longitude": -87.67625887027687,
+      "Latitude": 42.02232270523906
+    },
+    {
+      "id": "Linden",
+      "Lines": "Purple Line",
+      "Longitude": -87.68809300303968,
+      "Latitude": 42.06848254926117
+    },
+    {
+      "id": "Central-Evanston",
+      "Lines": "Purple Line",
+      "Longitude": -87.68379563225632,
+      "Latitude": 42.060293938909375
+    },
+    {
+      "id": "Noyes",
+      "Lines": "Purple Line",
+      "Longitude": -87.68379563225632,
+      "Latitude": 42.060293938909375
+    },
+    {
+      "id": "Foster",
+      "Lines": "Purple Line",
+      "Longitude": -87.68352967755074,
+      "Latitude": 42.05106822230626
+    },
+    {
+      "id": "Ashland-Midway",
+      "Lines": "Orange Line",
+      "Longitude": -87.67127989894826,
+      "Latitude": 41.83556355503113
+    },
+    {
+      "id": "Clark Junction",
+      "Lines": "Brown, Purple (Express), Red",
+      "Longitude": -87.65346416198433,
+      "Latitude": 41.94411932692429
+    },
+    {
+      "id": "Lawrence",
+      "Lines": "Red, Purple Line",
+      "Longitude": -87.65850948038,
+      "Latitude": 41.971265279764935
+    },
+    {
+      "id": "Berwyn",
+      "Lines": "Red, Purple Line",
+      "Longitude": -87.6586012055979,
+      "Latitude": 41.97556297169597
+    },
+    {
+      "id": "Armitage",
+      "Lines": "Brown, Purple (Express), Red",
+      "Longitude": -87.65257729864435,
+      "Latitude": 41.91623512893091
+    },
+    {
+      "id": "Sedgwick",
+      "Lines": "Brown, Purple",
+      "Longitude": -87.63693289378533,
+      "Latitude": 41.90365628278685
+    },
+    {
+      "id": "Cottage Grove",
+      "Lines": "Green Line",
+      "Longitude": -87.61085510665878,
+      "Latitude": 41.78022174099032
+    },
+    {
+      "id": "King Drive",
+      "Lines": "Green Line",
+      "Longitude": -87.61760578908596,
+      "Latitude": 41.78169554811198
+    },
+    {
+      "id": "Cermak-McCormick Place",
+      "Lines": "Green Line",
+      "Longitude": -87.62615903211955,
+      "Latitude": 41.84340936979588
+    },
+    {
+      "id": "Cumberland",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.84790617326246,
+      "Latitude": 41.98391442167488
+    },
+    {
+      "id": "Harlem-Congress",
+      "Lines": "Blue Line (Forest Park)",
+      "Longitude": -87.81293603453571,
+      "Latitude": 41.87380305240768
+    },
+    {
+      "id": "Kedzie-Lake",
+      "Lines": "Green Line",
+      "Longitude": -87.70195475313736,
+      "Latitude": 41.88415929219141
+    },
+    {
+      "id": "35th/Archer",
+      "Lines": "Orange Line",
+      "Longitude": -87.67127989894826,
+      "Latitude": 41.83556355503113
+    },
+    {
+      "id": "Francisco",
+      "Lines": "Brown Line",
+      "Longitude": -87.7052120799941,
+      "Latitude": 41.96613042065878
+    },
+    {
+      "id": "Ashland/63rd",
+      "Lines": "Green Line",
+      "Longitude": -87.65066112326743,
+      "Latitude": 41.779085994205225
+    },
+    {
+      "id": "Addison-North Main",
+      "Lines": "Red, Purple Line",
+      "Longitude": -87.65346416198433,
+      "Latitude": 41.94411932692429
+    },
+    {
+      "id": "Argyle",
+      "Lines": "Red, Purple Line",
+      "Longitude": -87.65850948038,
+      "Latitude": 41.971265279764935
+    },
+    {
+      "id": "63rd-Dan Ryan",
+      "Lines": "Red Line",
+      "Longitude": -87.63108080725978,
+      "Latitude": 41.7875751613745
+    },
+    {
+      "id": "Rosemont",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.88119690717693,
+      "Latitude": 41.98025047917161
+    },
+    {
+      "id": "Forest Park",
+      "Lines": "Blue Line (Forest Park)",
+      "Longitude": -87.81293603453571,
+      "Latitude": 41.87380305240768
+    },
+    {
+      "id": "Dempster",
+      "Lines": "Purple Line",
+      "Longitude": -87.68285210738762,
+      "Latitude": 42.045353193853
+    },
+    {
+      "id": "Loyola",
+      "Lines": "Red, Purple Line",
+      "Longitude": -87.65976414926423,
+      "Latitude": 41.9986300396629
+    },
+    {
+      "id": "Granville",
+      "Lines": "Red, Purple Line",
+      "Longitude": -87.65912812125299,
+      "Latitude": 41.99178503753403
+    },
+    {
+      "id": "Washington/Wells",
+      "Lines": "Brown, Orange, Pink, Purple (Express)",
+      "Longitude": -87.63381099781002,
+      "Latitude": 41.88075755116749
+    },
+    {
+      "id": "Monroe/Dearborn",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.62941228011262,
+      "Latitude": 41.881691550775855
+    },
+    {
+      "id": "Monroe/State",
+      "Lines": "Red Line",
+      "Longitude": -87.6277584857096,
+      "Latitude": 41.882930565101375
+    },
+    {
+      "id": "47th-South Elevated",
+      "Lines": "Green Line",
+      "Longitude": -87.61892959513655,
+      "Latitude": 41.812752072862864
+    },
+    {
+      "id": "O'Hare Airport",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.89879012249536,
+      "Latitude": 41.98074154019432
+    },
+    {
+      "id": "Subway Portal A",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.88119690717693,
+      "Latitude": 41.98025047917161
+    },
+    {
+      "id": "Midway Airport",
+      "Lines": "Orange Line",
+      "Longitude": -87.7357419301787,
+      "Latitude": 41.79438886619646
+    },
+    {
+      "id": "Dempster-Skokie",
+      "Lines": "Yellow Line",
+      "Longitude": -87.74919253254365,
+      "Latitude": 42.032021964696064
+    },
+    {
+      "id": "Davis",
+      "Lines": "Purple Line",
+      "Longitude": -87.68352967755074,
+      "Latitude": 42.05106822230626
+    },
+    {
+      "id": "Sox-35th-Dan Ryan",
+      "Lines": "Red Line",
+      "Longitude": -87.63095648969231,
+      "Latitude": 41.845822574010604
+    },
+    {
+      "id": "Quincy/Wells",
+      "Lines": "Brown, Orange, Pink, Purple (Express)",
+      "Longitude": -87.63331197883412,
+      "Latitude": 41.87712754877312
+    },
+    {
+      "id": "Washington/Dearborn",
+      "Lines": "Blue Line (O'Hare)",
+      "Longitude": -87.62977132594706,
+      "Latitude": 41.885491050665365
+    },
+    {
+      "id": "Washington/Wabash",
+      "Lines": "Brown, Green, Orange, Pink, Purple (Exp)",
+      "Longitude": -87.62615336773509,
+      "Latitude": 41.88159489824749
+    },
+    {
+      "id": "87th",
+      "Lines": "Red Line",
+      "Longitude": -87.62461434019436,
+      "Latitude": 41.730240130142896
+    },
+    {
+      "id": "95/Dan Ryan",
+      "Lines": "Red Line",
+      "Longitude": -87.62461434019436,
+      "Latitude": 41.730240130142896
+    },
+    {
+      "id": "35-Bronzeville-IIT",
+      "Lines": "Green Line",
+      "Longitude": -87.62615903211955,
+      "Latitude": 41.84340936979588
+    },
+    {
+      "id": "Adams/Wabash",
+      "Lines": "Brown, Green, Orange, Pink, Purple (Exp)",
+      "Longitude": -87.6260663249338,
+      "Latitude": 41.8781814539615
+    }
+  ],
+  "links": [
+    {
+      "source": "Oakton-Skokie",
+      "target": "Howard",
+      "Type": "Elevated or at Grade",
+      "Legend": "YL",
+      "Alt_Legend": "YL",
+      "Branch": "Yellow Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 21195.44443
+    },
+    {
+      "source": "Pulaski-Midway",
+      "target": "Kedzie-Midway",
+      "Type": "Elevated or at Grade",
+      "Legend": "OR",
+      "Alt_Legend": "OR",
+      "Branch": "Orange Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 5879.427258
+    },
+    {
+      "source": "Belmont-O'Hare",
+      "target": "Logan Square",
+      "Type": "Subway",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line O'Hare",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 3515.432743
+    },
+    {
+      "source": "Kedzie-Homan",
+      "target": "Western-Congress",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line Forest Park",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 4809.553793
+    },
+    {
+      "source": "Paulina Junction",
+      "target": "Polk",
+      "Type": "Elevated or at Grade",
+      "Legend": "PK",
+      "Alt_Legend": "PK",
+      "Branch": "Pink Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 5100.674863
+    },
+    {
+      "source": "Division/Milwaukee",
+      "target": "Chicago/Milwaukee",
+      "Type": "Subway",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line O'Hare",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 4058.725225
+    },
+    {
+      "source": "Belmont-North Main",
+      "target": "Wellington",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RPB",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 1355.33607
+    },
+    {
+      "source": "Irving Park-Ravenswood",
+      "target": "Addison-Ravenswood",
+      "Type": "Elevated or at Grade",
+      "Legend": "BR",
+      "Alt_Legend": "BR",
+      "Branch": "Brown Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2731.994588
+    },
+    {
+      "source": "Jarvis",
+      "target": "Morse",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RDPR",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 3001.49786
+    },
+    {
+      "source": "Cermak-Chinatown",
+      "target": "Roosevelt/State",
+      "Type": "Subway",
+      "Legend": "RD",
+      "Alt_Legend": "RD",
+      "Branch": "Red Line Dan Ryan",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 5556.9765
+    },
+    {
+      "source": "UIC-Halsted",
+      "target": "Clinton-Congress",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line Forest Park",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 2358.223604
+    },
+    {
+      "source": "Jackson/State",
+      "target": "Harrison",
+      "Type": "Subway",
+      "Legend": "RD",
+      "Alt_Legend": "RD",
+      "Branch": "Red Line State Street Subway",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 1499.381566
+    },
+    {
+      "source": "Chicago/Franklin",
+      "target": "Merchandise Mart",
+      "Type": "Elevated or at Grade",
+      "Legend": "BR",
+      "Alt_Legend": "BRPR",
+      "Branch": "Brown Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 3099.664177
+    },
+    {
+      "source": "Clark/Lake",
+      "target": "State/Lake",
+      "Type": "Elevated or at Grade",
+      "Legend": "ML",
+      "Alt_Legend": "L4",
+      "Branch": "Loop Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 830.774585
+    },
+    {
+      "source": "Subway Portal B",
+      "target": "North/Clybourn",
+      "Type": "Subway",
+      "Legend": "RD",
+      "Alt_Legend": "RD",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 1620.929002
+    },
+    {
+      "source": "79th",
+      "target": "69th",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RD",
+      "Branch": "Red Line Dan Ryan",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 6546.792039
+    },
+    {
+      "source": "43rd",
+      "target": "Indiana",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line South Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2502.480315
+    },
+    {
+      "source": "Laramie",
+      "target": "Cicero-Lake",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line Lake Street",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2811.631942
+    },
+    {
+      "source": "Pulaski-Douglas",
+      "target": "Central Park",
+      "Type": "Elevated or at Grade",
+      "Legend": "PK",
+      "Alt_Legend": "PK",
+      "Branch": "Pink Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2574.171766
+    },
+    {
+      "source": "Kimball",
+      "target": "Kedzie-Ravenswood",
+      "Type": "Elevated or at Grade",
+      "Legend": "BR",
+      "Alt_Legend": "BR",
+      "Branch": "Brown Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 1790.3946
+    },
+    {
+      "source": "Kedzie-Midway",
+      "target": "Western-Midway",
+      "Type": "Elevated or at Grade",
+      "Legend": "OR",
+      "Alt_Legend": "OR",
+      "Branch": "Orange Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 5524.174759
+    },
+    {
+      "source": "Western-Ravenswood",
+      "target": "Damen-Ravenswood",
+      "Type": "Elevated or at Grade",
+      "Legend": "BR",
+      "Alt_Legend": "BR",
+      "Branch": "Brown Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2684.375128
+    },
+    {
+      "source": "Ashland-Lake",
+      "target": "Morgan",
+      "Type": "Elevated or at Grade",
+      "Legend": "ML",
+      "Alt_Legend": "PKGR",
+      "Branch": "Green Line Lake Street",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 4067.505131
+    },
+    {
+      "source": "Montrose-Ravenswood",
+      "target": "Irving Park-Ravenswood",
+      "Type": "Elevated or at Grade",
+      "Legend": "BR",
+      "Alt_Legend": "BR",
+      "Branch": "Brown Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2634.829426
+    },
+    {
+      "source": "Garfield-Dan Ryan",
+      "target": "47th-Dan Ryan",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RD",
+      "Branch": "Red Line Dan Ryan",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 5476.512229
+    },
+    {
+      "source": "Halsted-Midway",
+      "target": "17th Junction",
+      "Type": "Elevated or at Grade",
+      "Legend": "OR",
+      "Alt_Legend": "OR",
+      "Branch": "Orange Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 7782.010063
+    },
+    {
+      "source": "Tower 18",
+      "target": "Clark/Lake",
+      "Type": "Elevated or at Grade",
+      "Legend": "ML",
+      "Alt_Legend": "L4",
+      "Branch": "Loop Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 824.344786
+    },
+    {
+      "source": "Grand/State",
+      "target": "Lake/State",
+      "Type": "Subway",
+      "Legend": "RD",
+      "Alt_Legend": "RD",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 2499.421187
+    },
+    {
+      "source": "North/Clybourn",
+      "target": "Clark/Division",
+      "Type": "Subway",
+      "Legend": "RD",
+      "Alt_Legend": "RD",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 5829.10158
+    },
+    {
+      "source": "Jefferson Park",
+      "target": "Montrose-O'Hare",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line O'Hare",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 5796.537855
+    },
+    {
+      "source": "Kedzie-Douglas",
+      "target": "California-Douglas",
+      "Type": "Elevated or at Grade",
+      "Legend": "PK",
+      "Alt_Legend": "PK",
+      "Branch": "Pink Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2889.800417
+    },
+    {
+      "source": "California-Lake",
+      "target": "Paulina Junction",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line Lake Street",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 7309.368408
+    },
+    {
+      "source": "Rockwell",
+      "target": "Western-Ravenswood",
+      "Type": "Elevated or at Grade",
+      "Legend": "BR",
+      "Alt_Legend": "BR",
+      "Branch": "Brown Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 1525.429301
+    },
+    {
+      "source": "18th",
+      "target": "Polk",
+      "Type": "Elevated or at Grade",
+      "Legend": "PK",
+      "Alt_Legend": "PK",
+      "Branch": "Pink Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 4977.226049
+    },
+    {
+      "source": "Racine",
+      "target": "UIC-Halsted",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line Forest Park",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 2681.143552
+    },
+    {
+      "source": "Paulina Junction",
+      "target": "Ashland-Lake",
+      "Type": "Elevated or at Grade",
+      "Legend": "ML",
+      "Alt_Legend": "PKGR",
+      "Branch": "Green Line Lake Street",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 675.178121
+    },
+    {
+      "source": "Wilson",
+      "target": "Sheridan",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RDPR",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 4256.90095
+    },
+    {
+      "source": "Halsted/63rd",
+      "target": "59th Junction",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line Ashland/63rd Branch",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 9551.670404
+    },
+    {
+      "source": "Library",
+      "target": "LaSalle/Van Buren",
+      "Type": "Elevated or at Grade",
+      "Legend": "ML",
+      "Alt_Legend": "L3",
+      "Branch": "Loop Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 960.148635
+    },
+    {
+      "source": "Roosevelt/Wabash",
+      "target": "Tower 12",
+      "Type": "Elevated or at Grade",
+      "Legend": "ML",
+      "Alt_Legend": "GROR",
+      "Branch": "Green Line South Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 3441.161016
+    },
+    {
+      "source": "Morgan",
+      "target": "Clinton-Lake",
+      "Type": "Elevated or at Grade",
+      "Legend": "ML",
+      "Alt_Legend": "PKGR",
+      "Branch": "Green Line Lake Street",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2791.003036
+    },
+    {
+      "source": "Clinton-Lake",
+      "target": "Tower 18",
+      "Type": "Elevated or at Grade",
+      "Legend": "ML",
+      "Alt_Legend": "PKGR",
+      "Branch": "Green Line Lake Street",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2139.86652
+    },
+    {
+      "source": "Oak Park-Congress",
+      "target": "Austin-Congress",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line Forest Park",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 4060.368802
+    },
+    {
+      "source": "Harlem-Lake",
+      "target": "Oak Park-Lake",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line Lake Street",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2558.177793
+    },
+    {
+      "source": "Harlem-O'Hare",
+      "target": "Jefferson Park",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line O'Hare",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 14394.666436
+    },
+    {
+      "source": "Austin-Lake",
+      "target": "Central-Lake",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line Lake Street",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2311.091381
+    },
+    {
+      "source": "54/Cermak",
+      "target": "Cicero-Douglas",
+      "Type": "Elevated or at Grade",
+      "Legend": "PK",
+      "Alt_Legend": "PK",
+      "Branch": "Pink Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 3093.089921
+    },
+    {
+      "source": "Montrose-O'Hare",
+      "target": "Irving Park-O'Hare",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line O'Hare",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 5022.851249
+    },
+    {
+      "source": "Western-Congress",
+      "target": "Illinois Medical District",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line Forest Park",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 3946.196573
+    },
+    {
+      "source": "Western/Milwaukee",
+      "target": "Damen/Milwaukee",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line O'Hare",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 3572.81355
+    },
+    {
+      "source": "Illinois Medical District",
+      "target": "Loomis Junction",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line Forest Park",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 1747.724481
+    },
+    {
+      "source": "Damen/Milwaukee",
+      "target": "Division/Milwaukee",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line O'Hare",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 3793.536069
+    },
+    {
+      "source": "Chicago/Milwaukee",
+      "target": "Grand/Milwaukee",
+      "Type": "Subway",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line O'Hare",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 2737.490698
+    },
+    {
+      "source": "Addison-Ravenswood",
+      "target": "Paulina",
+      "Type": "Elevated or at Grade",
+      "Legend": "BR",
+      "Alt_Legend": "BR",
+      "Branch": "Brown Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2024.296732
+    },
+    {
+      "source": "Paulina",
+      "target": "Southport",
+      "Type": "Elevated or at Grade",
+      "Legend": "BR",
+      "Alt_Legend": "BR",
+      "Branch": "Brown Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 1979.486271
+    },
+    {
+      "source": "Diversey",
+      "target": "Fullerton",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RPB",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 2799.749884
+    },
+    {
+      "source": "Thorndale",
+      "target": "Bryn Mawr",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RDPR",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 2462.586959
+    },
+    {
+      "source": "Howard",
+      "target": "Jarvis",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RDPR",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 1554.32866
+    },
+    {
+      "source": "Jackson/Dearborn",
+      "target": "LaSalle",
+      "Type": "Subway",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line Dearborn Subway",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 1569.026226
+    },
+    {
+      "source": "Roosevelt/State",
+      "target": "Harrison",
+      "Type": "Subway",
+      "Legend": "RD",
+      "Alt_Legend": "RD",
+      "Branch": "Red Line State Street Subway",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 2431.450805
+    },
+    {
+      "source": "Chicago/State",
+      "target": "Grand/State",
+      "Type": "Subway",
+      "Legend": "RD",
+      "Alt_Legend": "RD",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 1824.767976
+    },
+    {
+      "source": "Garfield-South Elevated",
+      "target": "51st",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line South Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2520.365767
+    },
+    {
+      "source": "Ridgeland",
+      "target": "Austin-Lake",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line Lake Street",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2594.492724
+    },
+    {
+      "source": "Central-Lake",
+      "target": "Laramie",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line Lake Street",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2916.164281
+    },
+    {
+      "source": "Cicero-Douglas",
+      "target": "Kostner",
+      "Type": "Elevated or at Grade",
+      "Legend": "PK",
+      "Alt_Legend": "PK",
+      "Branch": "Pink Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 3538.786543
+    },
+    {
+      "source": "Cicero-Congress",
+      "target": "Pulaski-Congress",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line Forest Park",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 5492.162756
+    },
+    {
+      "source": "Kostner",
+      "target": "Pulaski-Douglas",
+      "Type": "Elevated or at Grade",
+      "Legend": "PK",
+      "Alt_Legend": "PK",
+      "Branch": "Pink Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2435.417418
+    },
+    {
+      "source": "Pulaski-Lake",
+      "target": "Conservatory-Central Park",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line Lake Street",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2425.429648
+    },
+    {
+      "source": "Addison-O'Hare",
+      "target": "Belmont-O'Hare",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line O'Hare",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 4022.02711
+    },
+    {
+      "source": "Western-Douglas",
+      "target": "Damen",
+      "Type": "Elevated or at Grade",
+      "Legend": "PK",
+      "Alt_Legend": "PK",
+      "Branch": "Pink Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2508.233473
+    },
+    {
+      "source": "California/Milwaukee",
+      "target": "Western/Milwaukee",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line O'Hare",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 3340.72624
+    },
+    {
+      "source": "Main",
+      "target": "South Blvd.",
+      "Type": "Elevated or at Grade",
+      "Legend": "PR",
+      "Alt_Legend": "PR",
+      "Branch": "Purple Line Evanston",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2155.039329
+    },
+    {
+      "source": "Linden",
+      "target": "Central-Evanston",
+      "Type": "Elevated or at Grade",
+      "Legend": "PR",
+      "Alt_Legend": "PR",
+      "Branch": "Purple Line Evanston",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 3618.7281
+    },
+    {
+      "source": "Noyes",
+      "target": "Foster",
+      "Type": "Elevated or at Grade",
+      "Legend": "PR",
+      "Alt_Legend": "PR",
+      "Branch": "Purple Line Evanston",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 1504.342751
+    },
+    {
+      "source": "Central-Evanston",
+      "target": "Noyes",
+      "Type": "Elevated or at Grade",
+      "Legend": "PR",
+      "Alt_Legend": "PR",
+      "Branch": "Purple Line Evanston",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2193.05017
+    },
+    {
+      "source": "Ashland-Midway",
+      "target": "Halsted-Midway",
+      "Type": "Elevated or at Grade",
+      "Legend": "OR",
+      "Alt_Legend": "OR",
+      "Branch": "Orange Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 5445.501607
+    },
+    {
+      "source": "Damen",
+      "target": "18th",
+      "Type": "Elevated or at Grade",
+      "Legend": "PK",
+      "Alt_Legend": "PK",
+      "Branch": "Pink Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2970.153398
+    },
+    {
+      "source": "Clark Junction",
+      "target": "Belmont-North Main",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RPB",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 884.366128
+    },
+    {
+      "source": "Damen-Ravenswood",
+      "target": "Montrose-Ravenswood",
+      "Type": "Elevated or at Grade",
+      "Legend": "BR",
+      "Alt_Legend": "BR",
+      "Branch": "Brown Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2371.581205
+    },
+    {
+      "source": "Lawrence",
+      "target": "Wilson",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RDPR",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 1798.768198
+    },
+    {
+      "source": "Bryn Mawr",
+      "target": "Berwyn",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RDPR",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 2012.212864
+    },
+    {
+      "source": "17th Junction",
+      "target": "Roosevelt/Wabash",
+      "Type": "Elevated or at Grade",
+      "Legend": "ML",
+      "Alt_Legend": "GROR",
+      "Branch": "Green Line South Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 3151.194152
+    },
+    {
+      "source": "Clinton-Congress",
+      "target": "LaSalle",
+      "Type": "Subway",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line Forest Park",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 2522.932963
+    },
+    {
+      "source": "Tower 12",
+      "target": "Library",
+      "Type": "Elevated or at Grade",
+      "Legend": "ML",
+      "Alt_Legend": "L3",
+      "Branch": "Loop Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 647.793225
+    },
+    {
+      "source": "Fullerton",
+      "target": "Armitage",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RPB",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 2491.420693
+    },
+    {
+      "source": "Subway Portal B",
+      "target": "Sedgwick",
+      "Type": "Elevated or at Grade",
+      "Legend": "BR",
+      "Alt_Legend": "BRPR",
+      "Branch": "Brown Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 4303.794929
+    },
+    {
+      "source": "Cottage Grove",
+      "target": "King Drive",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line East 63rd Branch",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2643.49567
+    },
+    {
+      "source": "59th Junction",
+      "target": "Garfield-South Elevated",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line South Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2810.024259
+    },
+    {
+      "source": "Cermak-McCormick Place",
+      "target": "17th Junction",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line South Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2057.480507
+    },
+    {
+      "source": "Cumberland",
+      "target": "Harlem-O'Hare",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line O'Hare",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 8013.705631
+    },
+    {
+      "source": "Harlem-Congress",
+      "target": "Oak Park-Congress",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line Forest Park",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 4213.413708
+    },
+    {
+      "source": "Conservatory-Central Park",
+      "target": "Kedzie-Lake",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line Lake Street",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2831.178857
+    },
+    {
+      "source": "Western-Midway",
+      "target": "35th/Archer",
+      "Type": "Elevated or at Grade",
+      "Legend": "OR",
+      "Alt_Legend": "OR",
+      "Branch": "Orange Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 11059.72247
+    },
+    {
+      "source": "California-Douglas",
+      "target": "Western-Douglas",
+      "Type": "Elevated or at Grade",
+      "Legend": "PK",
+      "Alt_Legend": "PK",
+      "Branch": "Pink Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2627.771643
+    },
+    {
+      "source": "Francisco",
+      "target": "Rockwell",
+      "Type": "Elevated or at Grade",
+      "Legend": "BR",
+      "Alt_Legend": "BR",
+      "Branch": "Brown Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2052.127181
+    },
+    {
+      "source": "Ashland/63rd",
+      "target": "Halsted/63rd",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line Ashland/63rd Branch",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 5416.267312
+    },
+    {
+      "source": "Sheridan",
+      "target": "Addison-North Main",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RDPR",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 2581.713721
+    },
+    {
+      "source": "Berwyn",
+      "target": "Argyle",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RDPR",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 1651.480045
+    },
+    {
+      "source": "Argyle",
+      "target": "Lawrence",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RDPR",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 1572.30911
+    },
+    {
+      "source": "69th",
+      "target": "63rd-Dan Ryan",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RD",
+      "Branch": "Red Line Dan Ryan",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 4848.194081
+    },
+    {
+      "source": "Merchandise Mart",
+      "target": "Tower 18",
+      "Type": "Elevated or at Grade",
+      "Legend": "BR",
+      "Alt_Legend": "BRPR",
+      "Branch": "Brown Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 1182.089156
+    },
+    {
+      "source": "Clark/Division",
+      "target": "Chicago/State",
+      "Type": "Subway",
+      "Legend": "RD",
+      "Alt_Legend": "RD",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 3370.112929
+    },
+    {
+      "source": "Rosemont",
+      "target": "Cumberland",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line O'Hare",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 5815.960602
+    },
+    {
+      "source": "Forest Park",
+      "target": "Harlem-Congress",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line Forest Park",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 2881.688341
+    },
+    {
+      "source": "Pulaski-Congress",
+      "target": "Kedzie-Homan",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line Forest Park",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 5361.254795
+    },
+    {
+      "source": "Kedzie-Ravenswood",
+      "target": "Francisco",
+      "Type": "Elevated or at Grade",
+      "Legend": "BR",
+      "Alt_Legend": "BR",
+      "Branch": "Brown Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 1955.021551
+    },
+    {
+      "source": "Kedzie-Lake",
+      "target": "California-Lake",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line Lake Street",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2708.389481
+    },
+    {
+      "source": "Dempster",
+      "target": "Main",
+      "Type": "Elevated or at Grade",
+      "Legend": "PR",
+      "Alt_Legend": "PR",
+      "Branch": "Purple Line Evanston",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 3046.418214
+    },
+    {
+      "source": "35th/Archer",
+      "target": "Ashland-Midway",
+      "Type": "Elevated or at Grade",
+      "Legend": "OR",
+      "Alt_Legend": "OR",
+      "Branch": "Orange Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 5489.06291
+    },
+    {
+      "source": "Wellington",
+      "target": "Diversey",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RPB",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 1203.55975
+    },
+    {
+      "source": "Morse",
+      "target": "Loyola",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RDPR",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 3131.410552
+    },
+    {
+      "source": "Loyola",
+      "target": "Granville",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RDPR",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 2830.409377
+    },
+    {
+      "source": "63rd-Dan Ryan",
+      "target": "Garfield-Dan Ryan",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RD",
+      "Branch": "Red Line Dan Ryan",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 5425.129213
+    },
+    {
+      "source": "Washington/Wells",
+      "target": "Tower 18",
+      "Type": "Elevated or at Grade",
+      "Legend": "ML",
+      "Alt_Legend": "L3",
+      "Branch": "Loop Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 1104.107321
+    },
+    {
+      "source": "Jackson/Dearborn",
+      "target": "Monroe/Dearborn",
+      "Type": "Subway",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line Dearborn Subway",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 918.932131
+    },
+    {
+      "source": "Monroe/State",
+      "target": "Jackson/State",
+      "Type": "Subway",
+      "Legend": "RD",
+      "Alt_Legend": "RD",
+      "Branch": "Red Line State Street Subway",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 944.877871
+    },
+    {
+      "source": "Grand/Milwaukee",
+      "target": "Clark/Lake",
+      "Type": "Subway",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line O'Hare",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 5334.585725
+    },
+    {
+      "source": "Armitage",
+      "target": "Subway Portal B",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RPB",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 1515.432871
+    },
+    {
+      "source": "King Drive",
+      "target": "59th Junction",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line East 63rd Branch",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 3308.823738
+    },
+    {
+      "source": "51st",
+      "target": "47th-South Elevated",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line South Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2597.667938
+    },
+    {
+      "source": "O'Hare Airport",
+      "target": "Subway Portal A",
+      "Type": "Subway",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line O'Hare",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 2195.064752
+    },
+    {
+      "source": "Subway Portal A",
+      "target": "Rosemont",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line O'Hare",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 11048.42139
+    },
+    {
+      "source": "Oak Park-Lake",
+      "target": "Ridgeland",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line Lake Street",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2757.127053
+    },
+    {
+      "source": "Austin-Congress",
+      "target": "Cicero-Congress",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line Forest Park",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 8734.717507
+    },
+    {
+      "source": "Midway Airport",
+      "target": "Pulaski-Midway",
+      "Type": "Elevated or at Grade",
+      "Legend": "OR",
+      "Alt_Legend": "OR",
+      "Branch": "Orange Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 6923.362145
+    },
+    {
+      "source": "Cicero-Lake",
+      "target": "Pulaski-Lake",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line Lake Street",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 5269.520375
+    },
+    {
+      "source": "Dempster-Skokie",
+      "target": "Oakton-Skokie",
+      "Type": "Elevated or at Grade",
+      "Legend": "YL",
+      "Alt_Legend": "YL",
+      "Branch": "Yellow Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 4828.48427
+    },
+    {
+      "source": "Central Park",
+      "target": "Kedzie-Douglas",
+      "Type": "Elevated or at Grade",
+      "Legend": "PK",
+      "Alt_Legend": "PK",
+      "Branch": "Pink Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2575.744304
+    },
+    {
+      "source": "Logan Square",
+      "target": "California/Milwaukee",
+      "Type": "Subway",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line O'Hare",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 4266.422371
+    },
+    {
+      "source": "Irving Park-O'Hare",
+      "target": "Addison-O'Hare",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line O'Hare",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 3420.290535
+    },
+    {
+      "source": "Davis",
+      "target": "Dempster",
+      "Type": "Elevated or at Grade",
+      "Legend": "PR",
+      "Alt_Legend": "PR",
+      "Branch": "Purple Line Evanston",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2284.09681
+    },
+    {
+      "source": "Foster",
+      "target": "Davis",
+      "Type": "Elevated or at Grade",
+      "Legend": "PR",
+      "Alt_Legend": "PR",
+      "Branch": "Purple Line Evanston",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2351.054847
+    },
+    {
+      "source": "Loomis Junction",
+      "target": "Racine",
+      "Type": "Elevated or at Grade",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line Forest Park",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 2199.893623
+    },
+    {
+      "source": "Southport",
+      "target": "Clark Junction",
+      "Type": "Elevated or at Grade",
+      "Legend": "BR",
+      "Alt_Legend": "BR",
+      "Branch": "Brown Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 3163.236427
+    },
+    {
+      "source": "Addison-North Main",
+      "target": "Clark Junction",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RDPR",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 1918.716639
+    },
+    {
+      "source": "Granville",
+      "target": "Thorndale",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RDPR",
+      "Branch": "Red Line North Side",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 1241.323376
+    },
+    {
+      "source": "South Blvd.",
+      "target": "Howard",
+      "Type": "Elevated or at Grade",
+      "Legend": "PR",
+      "Alt_Legend": "PR",
+      "Branch": "Purple Line Evanston",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 3636.173397
+    },
+    {
+      "source": "47th-Dan Ryan",
+      "target": "Sox-35th-Dan Ryan",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RD",
+      "Branch": "Red Line Dan Ryan",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 7640.992973
+    },
+    {
+      "source": "Sox-35th-Dan Ryan",
+      "target": "Cermak-Chinatown",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RD",
+      "Branch": "Red Line Dan Ryan",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 8041.451907
+    },
+    {
+      "source": "Quincy/Wells",
+      "target": "Washington/Wells",
+      "Type": "Elevated or at Grade",
+      "Legend": "ML",
+      "Alt_Legend": "L3",
+      "Branch": "Loop Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 1447.78613
+    },
+    {
+      "source": "LaSalle/Van Buren",
+      "target": "Quincy/Wells",
+      "Type": "Elevated or at Grade",
+      "Legend": "ML",
+      "Alt_Legend": "L3",
+      "Branch": "Loop Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 1179.72645
+    },
+    {
+      "source": "Washington/Dearborn",
+      "target": "Monroe/Dearborn",
+      "Type": "Subway",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line Dearborn Subway",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 896.981785
+    },
+    {
+      "source": "Lake/State",
+      "target": "Monroe/State",
+      "Type": "Subway",
+      "Legend": "RD",
+      "Alt_Legend": "RD",
+      "Branch": "Red Line State Street Subway",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 1481.462874
+    },
+    {
+      "source": "Sedgwick",
+      "target": "Chicago/Franklin",
+      "Type": "Elevated or at Grade",
+      "Legend": "BR",
+      "Alt_Legend": "BRPR",
+      "Branch": "Brown Line",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 5532.304574
+    },
+    {
+      "source": "Clark/Lake",
+      "target": "Washington/Dearborn",
+      "Type": "Subway",
+      "Legend": "BL",
+      "Alt_Legend": "BL",
+      "Branch": "Blue Line Dearborn Subway",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 1285.128506
+    },
+    {
+      "source": "State/Lake",
+      "target": "Washington/Wabash",
+      "Type": "Elevated or at Grade",
+      "Legend": "ML",
+      "Alt_Legend": "L4",
+      "Branch": "Loop Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 1317.604924
+    },
+    {
+      "source": "87th",
+      "target": "79th",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RD",
+      "Branch": "Red Line Dan Ryan",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 5482.440067
+    },
+    {
+      "source": "95/Dan Ryan",
+      "target": "87th",
+      "Type": "Elevated or at Grade",
+      "Legend": "RD",
+      "Alt_Legend": "RD",
+      "Branch": "Red Line Dan Ryan",
+      "Owl": "Yes",
+      "Shape": "Polyline",
+      "Shape_len": 4736.477989
+    },
+    {
+      "source": "Indiana",
+      "target": "35-Bronzeville-IIT",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line South Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 4677.796949
+    },
+    {
+      "source": "47th-South Elevated",
+      "target": "43rd",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line South Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 2644.180996
+    },
+    {
+      "source": "35-Bronzeville-IIT",
+      "target": "Cermak-McCormick Place",
+      "Type": "Elevated or at Grade",
+      "Legend": "GR",
+      "Alt_Legend": "GR",
+      "Branch": "Green Line South Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 7813.440088
+    },
+    {
+      "source": "Washington/Wabash",
+      "target": "Adams/Wabash",
+      "Type": "Elevated or at Grade",
+      "Legend": "ML",
+      "Alt_Legend": "L4",
+      "Branch": "Loop Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 1352.120554
+    },
+    {
+      "source": "Adams/Wabash",
+      "target": "Tower 12",
+      "Type": "Elevated or at Grade",
+      "Legend": "ML",
+      "Alt_Legend": "L4",
+      "Branch": "Loop Elevated",
+      "Owl": "No",
+      "Shape": "Polyline",
+      "Shape_len": 1022.956834
+    }
+  ]
+}
